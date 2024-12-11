@@ -1,42 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\homework\\Railwaytest\\Railway test\\",
+  "WorkspaceRootPath": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Railway test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Railway test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Railway test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rail.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rail.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Assistant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Assistant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Assistant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Assistant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rail.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,36 +46,36 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Rand.h",
               "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rand.h",
-              "RelativeDocumentMoniker": "Railway test\\Rand.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Railwaytest\\Railway test\\Railway test\\Rand.h",
               "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rand.h",
-              "RelativeToolTip": "Railway test\\Rand.h",
+              "RelativeToolTip": "..\\..\\..\\Railwaytest\\Railway test\\Railway test\\Rand.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-10T11:54:47.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Rail.h",
               "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rail.h",
-              "RelativeDocumentMoniker": "Railway test\\Rail.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Railwaytest\\Railway test\\Railway test\\Rail.h",
               "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rail.h",
-              "RelativeToolTip": "Railway test\\Rail.h",
+              "RelativeToolTip": "..\\..\\..\\Railwaytest\\Railway test\\Railway test\\Rail.h",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvxgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-10T11:39:07.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Rail.cpp",
               "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rail.cpp",
-              "RelativeDocumentMoniker": "Railway test\\Rail.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Railwaytest\\Railway test\\Railway test\\Rail.cpp",
               "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rail.cpp",
-              "RelativeToolTip": "Railway test\\Rail.cpp",
+              "RelativeToolTip": "..\\..\\..\\Railwaytest\\Railway test\\Railway test\\Rail.cpp",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-10T11:39:05.607Z"
@@ -89,20 +85,20 @@
               "DocumentIndex": 8,
               "Title": "Rand.cpp",
               "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rand.cpp",
-              "RelativeDocumentMoniker": "Railway test\\Rand.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Railwaytest\\Railway test\\Railway test\\Rand.cpp",
               "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Rand.cpp",
-              "RelativeToolTip": "Railway test\\Rand.cpp",
+              "RelativeToolTip": "..\\..\\..\\Railwaytest\\Railway test\\Railway test\\Rand.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-10T11:38:57.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Assistant.cpp",
-              "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Assistant.cpp",
+              "DocumentMoniker": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.cpp",
               "RelativeDocumentMoniker": "Railway test\\Assistant.cpp",
-              "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Assistant.cpp",
+              "ToolTip": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.cpp",
               "RelativeToolTip": "Railway test\\Assistant.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -110,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Assistant.h",
-              "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Assistant.h",
+              "DocumentMoniker": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.h",
               "RelativeDocumentMoniker": "Railway test\\Assistant.h",
-              "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Assistant.h",
+              "ToolTip": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.h",
               "RelativeToolTip": "Railway test\\Assistant.h",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -122,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Stack.h",
-              "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Stack.h",
+              "DocumentMoniker": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Stack.h",
               "RelativeDocumentMoniker": "Railway test\\Stack.h",
-              "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Stack.h",
+              "ToolTip": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Stack.h",
               "RelativeToolTip": "Railway test\\Stack.h",
               "ViewState": "AgIAABEAAAAAAAAAAAAjwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -134,11 +130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Stack.cpp",
-              "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Stack.cpp",
+              "DocumentMoniker": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Stack.cpp",
               "RelativeDocumentMoniker": "Railway test\\Stack.cpp",
-              "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Stack.cpp",
+              "ToolTip": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Stack.cpp",
               "RelativeToolTip": "Railway test\\Stack.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -148,11 +144,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Railway test.cpp",
-              "DocumentMoniker": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Railway test.cpp",
+              "DocumentMoniker": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Railway test.cpp",
               "RelativeDocumentMoniker": "Railway test\\Railway test.cpp",
-              "ToolTip": "D:\\homework\\Railwaytest\\Railway test\\Railway test\\Railway test.cpp",
+              "ToolTip": "D:\\homework\\Railwaytest\uFF08git\uFF09\\railway-dispatching-system\\Railway test\\Railway test\\Railway test.cpp",
               "RelativeToolTip": "Railway test\\Railway test.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-10T11:32:26.423Z",
               "EditorCaption": ""
