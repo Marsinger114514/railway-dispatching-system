@@ -13,6 +13,7 @@ Rail::~Rail()
     delete[] mainTrack;
 }
 
+//文字输出调度过程
 void Rail::printProcess()
 {
     cout << "初始序列: ";
@@ -55,11 +56,11 @@ bool Rail::dispatch()
     }
     return target == n + 1;
 }
-
-bool Rail::dispatchAuto(void (*visit)(LinkStackC& origin, LinkStackC& serve, LinkStackC& array))
+//直观化调度
+bool Rail::dispatchAuto(void (*visit)(Stack& origin, Stack& serve, Stack& array))
 {
-    LinkStackC origin(n, mainTrack);
-    LinkStackC array;
+    Stack origin(n, mainTrack);
+    Stack array;
     int target = 1;
     for (int i = n-1; i>=0; --i) {
         if (mainTrack[i] == target) {
@@ -90,7 +91,7 @@ bool Rail::dispatchAuto(void (*visit)(LinkStackC& origin, LinkStackC& serve, Lin
 }
 
 
-
+//设置初始序列 
 void Rail::setInitialSequence(const int* sequence)
 {
     for (int i = 0; i < n; ++i) {

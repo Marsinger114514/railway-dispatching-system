@@ -1,5 +1,5 @@
 #pragma once
-#include"LinkStackC.h"
+#include"Stack.h"
 #include"Rand.h"
 
 
@@ -8,7 +8,7 @@
 
 class Rail {
 private:
-    LinkStackC assistTrack;
+    Stack assistTrack;
     int* mainTrack;
     int n;
     int count;
@@ -16,8 +16,11 @@ private:
 public:
     Rail(int size);
     ~Rail();
+    //文字输出调度过程
     void printProcess();
     bool dispatch();
-    bool dispatchAuto(void (*visit)(LinkStackC& origin, LinkStackC& serve, LinkStackC& array));
+    //直观化调度
+    bool dispatchAuto(void (*visit)(Stack& origin, Stack& serve, Stack& array));  //
+    //设置一个初始随机化序列
     void setInitialSequence(const int* sequence);
 };

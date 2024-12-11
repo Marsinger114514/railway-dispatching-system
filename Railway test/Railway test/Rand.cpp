@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 //生成一个随机int型
-int UniformRand_int(int min, int max) {
+static int UniformRand_int(int min, int max) {
     random_device rd;
     mt19937 gen(rd());
     uniform_int_distribution<> dist(min, max);
@@ -12,7 +12,7 @@ int UniformRand_int(int min, int max) {
     return result;
 }
 //生成10位随机数作为打乱种子
-int seed()
+static int seed()
 {
     int seed = 0;
     for (int i = 0; i < 10; i++)
