@@ -1,9 +1,10 @@
 #include "Rand.h"
+#include"Stack.h"
 #include <random>
 #include <ctime>
 #include <iostream>
 using namespace std;
-//Éú³ÉÒ»¸öËæ»úintĞÍ
+//ç”Ÿæˆä¸€ä¸ªéšæœºintå‹
 static int UniformRand_int(int min, int max) {
     random_device rd;
     mt19937 gen(rd());
@@ -11,7 +12,7 @@ static int UniformRand_int(int min, int max) {
     double result = dist(gen);
     return result;
 }
-//Éú³É10Î»Ëæ»úÊı×÷Îª´òÂÒÖÖ×Ó
+//ç”Ÿæˆ10ä½éšæœºæ•°ä½œä¸ºæ‰“ä¹±ç§å­
 static int seed()
 {
     int seed = 0;
@@ -43,4 +44,68 @@ int* createSituation(int size)
         }
     }
     return array;
+}
+//ç”Ÿæˆ10ä½éšæœºæ•°ä½œä¸ºæ‰“ä¹±ç§å­
+static int seed()
+{
+    int seed = 0;
+    for (int i = 0; i < 10; i++)
+    {
+        seed *= 10;
+        seed += UniformRand_int(0, 10);
+    }
+    if (seed < 0)
+        return -seed;
+    return seed;
+}
+int* createSituation(int size)
+{
+    int* array = new int[size];
+    for (int i = 0; i < size; i++)
+    {
+        array[i] = i + 1;
+    }
+    int key = seed();
+    while (key != 0) {
+        int step = key % 10;
+        key /= 10;
+        for (int i = 0; i < size; i++)
+        {
+            int temp = array[i];
+            array[i] = array[(i * step) % size];
+            array[(i * step) % size] = temp;
+        }
+    }
+    return array;
+}
+int* createCertainSituation()
+{
+    int array[5] = { 1,2,3,4,5 };
+    Stack left(5, array);
+    Stack assistTrack;
+    Stack right;
+    while (right.getLength() < 5) {
+        int seed = UniformRand_int(0, 2);
+        if (seed == 0) {
+            if (!left.isEmpty()) {
+                right.push(left.getTop());
+            }
+        }
+        else if (seed == 1) {
+            if (!left.isEmpty()) {
+                assistTrack.push(left.getTop());
+            }
+        }
+        else {
+            if (!assistTrack.isEmpty()) {
+                right.push(assistTrack.getTop());
+            }
+        }
+    }
+    int* result = new int[5];
+    for (int i = 0; i < 5; i++)
+    {
+        result[i] = right.getTop();
+    }
+    return result;
 }
