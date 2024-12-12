@@ -40,7 +40,7 @@ int main()
             cout << "序列21354失败示范" << endl;
             r.setInitialSequence(b);
             r.printProcess();
-            cout << "按任意键启动过程模拟,俺空格跳过模拟" << endl;
+            cout << "按任意键启动过程模拟,按空格跳过模拟" << endl;
             gogogo=_getch();
             if(gogogo!=' ') r.dispatchAuto(show);
             break;
