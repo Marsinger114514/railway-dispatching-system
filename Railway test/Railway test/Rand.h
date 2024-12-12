@@ -1,9 +1,10 @@
 #pragma once
 #include <random>
 #ifndef RAND
-//Ëæ»úÉú³É°üº¬1~sizeÁ¬Ğø×ÔÈ»ÊıµÄÂÒĞòÊı×é
+//éšæœºç”ŸæˆåŒ…å«1~sizeè¿ç»­è‡ªç„¶æ•°çš„ä¹±åºæ•°ç»„
 int* createSituation(int size);
-
+//éšæœºç”Ÿæˆé•¿åº¦ä¸º5çš„å¿…å®šèƒ½å®Œæˆè°ƒåŠ¨çš„ä¹±åºæ•°ç»„
+int* createCertainSituation();
 #endif // !RAND
 
 
