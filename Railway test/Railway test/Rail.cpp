@@ -31,12 +31,13 @@ void Rail::printProcess()
     }
     cout << "总栈操作次数: " << count << endl;
     cout << "最大辅助轨道长度: " << maxLength << endl;
+    count = maxLength = 0;//重置避免影响下次统计
 }
 
 bool Rail::dispatch()
 {
     int target = 1;
-    for (int i = 0; i < n; ++i) {
+    for (int i = n-1; i >=0; --i) {
         if (mainTrack[i] == target) {
             cout << "车厢 " << target << " 在正确位置，移动到下一个。" << endl;
             ++target;
@@ -59,6 +60,7 @@ bool Rail::dispatch()
 //直观化调度
 bool Rail::dispatchAuto(void (*visit)(Stack& origin, Stack& serve, Stack& array))
 {
+    assistTrack.clear();
     Stack origin(n, mainTrack);
     Stack array;
     int target = 1;
@@ -87,6 +89,7 @@ bool Rail::dispatchAuto(void (*visit)(Stack& origin, Stack& serve, Stack& array)
             ++count;
         }
     }
+
     return target == n + 1;
 }
 
@@ -94,6 +97,7 @@ bool Rail::dispatchAuto(void (*visit)(Stack& origin, Stack& serve, Stack& array)
 //设置初始序列 
 void Rail::setInitialSequence(const int* sequence)
 {
+    count = maxLength = 0;
     for (int i = 0; i < n; ++i) {
         mainTrack[i] = sequence[i];
     }
