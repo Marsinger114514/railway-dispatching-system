@@ -1,3 +1,1 @@
-﻿  Railway test.cpp
-D:\STUDY\class\railway-dispatching-system\Railway test\Railway test\Railway test.cpp(20,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Railway test.vcxproj -> D:\STUDY\class\railway-dispatching-system\Railway test\x64\Debug\Railway test.exe
+﻿  Railway test.vcxproj -> D:\STUDY\class\railway-dispatching-system\Railway test\x64\Debug\Railway test.exe

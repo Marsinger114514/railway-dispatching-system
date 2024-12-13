@@ -56,7 +56,10 @@ int main()
             }
             Rail t(n);
             int* temp;
-            temp=createSituation(n);
+            int choice = rand() % 2;
+            if (choice)temp = createSituation(n);
+            else 
+                temp = createCertainSituation(n);
             cout << endl;
             t.setInitialSequence(temp);
             t.printProcess();
@@ -98,10 +101,5 @@ int main()
 //createSituation函数为外部函数，功能是随机生成乱序的车厢顺序，参数为长度
 //printProcess函数为Rail类的成员函数 功能为文字输出调动操作以及调动次数，辅助轨道长度等参数
 //dispatchAuto函数为逐帧输出调动过程，参数为每一帧创建逻辑的函数指针
-/*
-什么情况下调度会失败
-辅助栈中出现大的在上小的在下
-1 
-5 3
-*/
+
 

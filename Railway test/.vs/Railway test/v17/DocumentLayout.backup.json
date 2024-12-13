@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Railway test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Assistant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|solutionrelative:Railway test\\Rail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BEA190E-E485-4D30-9C09-0691FA97245C}|Railway test\\Railway test.vcxproj|D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rail.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -37,23 +37,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-<<<<<<< Updated upstream
-=======
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
->>>>>>> Stashed changes
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Rand.cpp",
               "DocumentMoniker": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rand.cpp",
               "RelativeDocumentMoniker": "Railway test\\Rand.cpp",
               "ToolTip": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rand.cpp",
               "RelativeToolTip": "Railway test\\Rand.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAASwBoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T16:46:07.802Z"
+              "WhenOpened": "2024-12-12T15:48:38.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,43 +57,36 @@
               "RelativeDocumentMoniker": "Railway test\\Railway test.cpp",
               "ToolTip": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Railway test.cpp",
               "RelativeToolTip": "Railway test\\Railway test.cpp",
-<<<<<<< Updated upstream
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFwAAAAFAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
->>>>>>> Stashed changes
+              "ViewState": "AgIAACsAAAAAAAAAAAApwDYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T16:36:07.708Z",
+              "WhenOpened": "2024-12-12T15:48:38.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Rand.h",
               "DocumentMoniker": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rand.h",
               "RelativeDocumentMoniker": "Railway test\\Rand.h",
               "ToolTip": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rand.h",
               "RelativeToolTip": "Railway test\\Rand.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-<<<<<<< Updated upstream
-              "WhenOpened": "2024-12-11T15:48:28.84Z",
+              "WhenOpened": "2024-12-12T15:48:38.905Z",
               "EditorCaption": ""
-=======
-              "WhenOpened": "2024-12-11T15:48:28.84Z"
->>>>>>> Stashed changes
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Rail.cpp",
               "DocumentMoniker": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rail.cpp",
               "RelativeDocumentMoniker": "Railway test\\Rail.cpp",
               "ToolTip": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Rail.cpp",
               "RelativeToolTip": "Railway test\\Rail.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-11T15:43:24.257Z"
+              "WhenOpened": "2024-12-12T15:48:38.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,19 +98,20 @@
               "RelativeToolTip": "Railway test\\Rail.h",
               "ViewState": "AgIAAAIAAAAAAAAAAAASwA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-11T15:42:54.913Z"
+              "WhenOpened": "2024-12-12T15:48:38.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Assistant.cpp",
               "DocumentMoniker": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.cpp",
               "RelativeDocumentMoniker": "Railway test\\Assistant.cpp",
               "ToolTip": "D:\\STUDY\\class\\railway-dispatching-system\\Railway test\\Railway test\\Assistant.cpp",
               "RelativeToolTip": "Railway test\\Assistant.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-10T11:37:07.581Z"
+              "WhenOpened": "2024-12-12T15:48:38.906Z",
+              "EditorCaption": ""
             }
           ]
         }
